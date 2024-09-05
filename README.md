@@ -6,7 +6,9 @@
 ### Certificações 
 - LPI-302 
 - LPI-303  
-- AWS Cloud Practitioner
+- AWS Certifications:
+ - Cloud Practitioner
+ - Solutions Architect – Associate
 - ISO 27001
 - ITIL4
   
