@@ -1,5 +1,5 @@
 ### Hello There... 👋
-- Atuo a mais de 23 anos na gestão de times de TI e administração de ambientes de missão crítica e alta disponibilidade, utilizando ambientes de nuvem híbrida
+- Atuo a mais de 26 anos na gestão de times de TI e administração de ambientes de missão crítica e alta disponibilidade, utilizando ambientes de nuvem híbrida
 - Me especializei Segurança da informação e gestão estratégica de TI
 - Sou militante da causa OpenSource, buscando sempre contribuir e compartilhar conhecimentos com a comunidade
 
